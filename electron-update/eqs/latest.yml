@@ -1,0 +1,8 @@
+version: 2.0.0
+files:
+  - url: test-demo Setup 2.0.0.exe
+    sha512: phUlknnvIZj0QXhiwOAfzGvcGLSzC7rTAY3N/dpc4OPlmOb5BHgimAuxnFH1RiDw1UG/jEycLCI7TgwKt9WTYg==
+    size: 51560374
+path: test-demo Setup 2.0.0.exe
+sha512: phUlknnvIZj0QXhiwOAfzGvcGLSzC7rTAY3N/dpc4OPlmOb5BHgimAuxnFH1RiDw1UG/jEycLCI7TgwKt9WTYg==
+releaseDate: '2020-10-28T01:06:12.033Z'
